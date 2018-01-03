@@ -1,0 +1,1 @@
+Please extract cuDNN v3 (https://developer.nvidia.com/cudnn) here and make sure it has the right directory layout.
